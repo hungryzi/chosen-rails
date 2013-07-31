@@ -1,4 +1,4 @@
-class SelectParser
+class @SelectParser
 
   constructor: ->
     @options_index = 0

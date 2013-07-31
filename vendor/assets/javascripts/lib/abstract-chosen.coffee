@@ -1,4 +1,4 @@
-class AbstractChosen
+class @AbstractChosen
 
   constructor: (@form_field, @options={}) ->
     return unless AbstractChosen.browser_is_supported()
